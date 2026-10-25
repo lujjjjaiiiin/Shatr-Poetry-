@@ -1,0 +1,8 @@
+{
+  "source": "already reviewed Ashaar pairs from previous notebook 00",
+  "split": "one fixed seed; grouped by normalized poet separately within each era",
+  "seed": 42,
+  "reused_old_pairs": true,
+  "data_signature": "6f37ca84732a914d99653559ab14a791435dd04c0bc6b26bcbf81ea4c123202c",
+  "note": "Retains only pairs present in old prepared files, not the entire raw corpus. Old model is not reused."
+}

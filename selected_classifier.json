@@ -1,0 +1,9 @@
+{
+  "model_key": "arapoembert",
+  "model_id": "faisalq/bert-base-arapoembert",
+  "accuracy": 0.5145,
+  "macro_f1": 0.5065157984545026,
+  "folder": "arapoembert_model",
+  "criterion": "validation_macro_f1",
+  "data_signature": "6f37ca84732a914d99653559ab14a791435dd04c0bc6b26bcbf81ea4c123202c"
+}

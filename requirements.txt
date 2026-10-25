@@ -1,0 +1,11 @@
+# Stable API set; torch is normally preinstalled in Colab. Python 3.10-3.12 recommended.
+torch>=2.6,<3
+transformers==4.57.1
+peft==0.17.1
+accelerate==1.10.1
+datasets==4.1.1
+gradio==5.49.1
+pandas>=2.2,<3
+scikit-learn>=1.5,<2
+joblib>=1.4,<2
+matplotlib>=3.8,<4
